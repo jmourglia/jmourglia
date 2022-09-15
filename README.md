@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://ide.corrientes.gob.ar/invico/img/idecorr.jpg) 
+![image]](https://ide.corrientes.gob.ar/invico/images/ideCorr.png)) 
 <!--
 **jmourglia/jmourglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
