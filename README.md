@@ -1,5 +1,6 @@
 <h2> Hi, I'm Yeyo Mourglia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://https://giphy.com/embed/IpeYSEZshTefe" width="480" height="344" frameBorder="0" class="giphy-embed"> href="https://giphy.com/gifs/computer-typing-nickelodeon-IpeYSEZshTefe">via GIPHY</a></p>>
+<img align='right' src="https://https://giphy.com/embed/IpeYSEZshTefe" width="100" height="100">
+
 <!--
 **jmourglia/jmourglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
