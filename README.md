@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image](https://raw.githubusercontent.com/cosimameyer/cosimameyer/master/img/background_smaller.jpg) 
 <!--
 **jmourglia/jmourglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
