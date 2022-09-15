@@ -1,6 +1,6 @@
 <h2> Hi, I'm Yeyo Mourglia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://https://giphy.com/embed/IpeYSEZshTefe" width="100" height="100">
-[Twitter: yeyomourglia](https://img.shields.io/twitter/follow/yeyomourglia?style=social)](https://twitter.com/yeyomourglia)
+
+(https://img.shields.io/twitter/follow/yeyomourglia?style=social)](https://twitter.com/yeyomourglia)
 
 <!--
 **jmourglia/jmourglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
