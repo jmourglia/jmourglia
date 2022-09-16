@@ -11,7 +11,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=MySQL)
-![PostGis](https://img.shields.io/badge/-Postgis-336791?style=flat-square&logo=PostGis)
+![PostGis](https://img.shields.io/badge/-Postgis-23F7DF?style=flat-square&logo=PostGis)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
