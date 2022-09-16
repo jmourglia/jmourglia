@@ -1,9 +1,9 @@
 <h2> Hi, I'm Yeyo Mourglia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 [![Twitter Badge](https://img.shields.io/badge/-@yeyomourglia?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yeyomourglia)](https://twitter.com/yeyomourglia)
-
+[![Twitter Badge](https://img.shields.io/badge/-@jmourglia?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jmourglia)](https://twitter.com/_jesslim)
 <!--
 **jmourglia/jmourglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Twitter Badge](https://img.shields.io/badge/-@jmourglia?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jmourglia)](https://twitter.com/_jesslim)
+
 [![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 Here are some ideas to get you started:
