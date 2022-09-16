@@ -22,7 +22,7 @@
 
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-0078D6?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
+![Windows](http://img.shields.io/badge/-Geoserver-57078D?style=flat-square&logo=geoserver&logoColor=ffffff)
 
 
 
