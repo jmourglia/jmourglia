@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Rstudio](http://img.shields.io/badge/-Rstudio-007ACC?style=flat-square&logo=rstudio&logoColor=ffffff)
-![qgis](http://img.shields.io/badge/-Qgis-007ACC?style=flat-square&logo=qgis&logoColor=ffffff)
+![qgis](http://img.shields.io/badge/-Qgis-009958?style=flat-square&logo=qgis&logoColor=ffffff)
 ![Rstudio](http://img.shields.io/badge/-Rstudio-007ACC?style=flat-square&logo=rstudio&logoColor=ffffff)
 
 
