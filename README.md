@@ -1,5 +1,6 @@
 <h2> Hi, I'm Yeyo Mourglia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 [![Gmail Badge](https://img.shields.io/badge/-jmourglia-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jmourglia@gmail.com)](mailto:jmourglia@gmail.com)
+https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
