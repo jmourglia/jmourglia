@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yeyo Mourglia! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-[![Twitter Badge](https://img.shields.io/badge/@yeyomourglia?)](https://twitter.com/yeyomourglia)
+[![Gmail Badge](https://img.shields.io/badge/-jmourglia-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jmourglia@gmail.com)](mailto:jmourglia@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
