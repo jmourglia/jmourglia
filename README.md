@@ -17,7 +17,7 @@
 
 ![Rstudio](http://img.shields.io/badge/-Rstudio-007ACC?style=flat-square&logo=rstudio&logoColor=ffffff)
 ![qgis](http://img.shields.io/badge/-Qgis-009958?style=flat-square&logo=qgis&logoColor=ffffff)
-![Rstudio](http://img.shields.io/badge/-Rstudio-007ACC?style=flat-square&logo=rstudio&logoColor=ffffff)
+![Leaflet](http://img.shields.io/badge/-Leaflet-006699?style=flat-square&logo=leaflet&logoColor=ffffff)
 
 
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-0078D6?style=flat-square&logo=ubuntu&logoColor=ffffff)
